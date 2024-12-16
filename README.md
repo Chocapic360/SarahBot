@@ -13,4 +13,4 @@ This prompt works ok, but it's definitely not perfect. I would love someone to i
 
 # NOTE TO EMPLOYERS
 If you are somehow an employer looking at this repository please advert your eyes. This is a silly and quite frankly stupid project.
-I have other much more interesting and usefull projects on my github. I am only hosting this repo publicly so that other discord servers can implement this bot and so I feel like I wasted less time making this.
+I have other much more interesting and useful projects on my github. I am only hosting this repo publicly so that other discord servers can implement this bot and so I feel like I wasted less time making this.
